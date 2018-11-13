@@ -2,7 +2,7 @@
 
 This mod for RimWorld adds the ability to limit the total number of items in individual stockpiles.
 
-[[https://github.com/790/StockpileQuantityFilter/blob/master/About/Preview.png|alt=Screenshot]]
+![Screenshot](https://github.com/790/StockpileQuantityFilter/blob/master/About/Preview.png)
 
 A textbox is added to stockpile configuration where you can specify the *maximum* number of that item you want the stockpile to contain, between 1 and 9999.
 
@@ -22,4 +22,4 @@ Pawns will occasionally overstack a stockpile, this usually occurs when a stockp
 
 The 'small volume' identifier on items like silver and gold is obscured by the new text box.
 
-[[https://github.com/790/StockpileQuantityFilter/blob/master/About/Screenshot.png|alt=Screenshot]]
+![Screenshot](https://github.com/790/StockpileQuantityFilter/blob/master/About/Screenshot.png)
