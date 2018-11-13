@@ -32,7 +32,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="README.md" />
     <Reference Include="0Harmony">
       <HintPath>..\..\HugsLib\Assemblies\0Harmony.dll</HintPath>
       <Private>True</Private>
